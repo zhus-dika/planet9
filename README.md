@@ -67,8 +67,13 @@
 ---> Возможность формировать статистику по учебным процессам, данным по департаментам, группам обучающихся, 
 проводить мониторинг качества знаний учеников и профессиональную подготовку преподавателей.
 ```
+![alt text](https://github.com/zhus-dika/planet9/blob/master/screenshot_stat.png?raw=true) 
 ```
---->
+---> Регистрация департамента, получение списка департаментов
+```
+![alt text](https://github.com/zhus-dika/planet9/blob/master/screen_department.png?raw=true)
+
+```
 --->
 --->
 ---> 
