@@ -102,6 +102,7 @@
 ![alt text](screenshots/admin/groups.png "Инструкция-файл/Группы")
 #### 2.6 Добавление и удаление ученика из группы
 ![alt text](screenshots/admin/groups1.png "Инструкция-файл/Группы и ученики")
+![alt text](screenshots/admin/groups2.png "Инструкция-файл/Группы и ученики")
 #### 2.7 Получение списка учебных программ и редактирование, активирование программ
 ![alt text](screenshots/admin/programmes.png "Инструкция-файл/Программы")
 #### 2.8 Получение списка составленных тестов преподавателями
@@ -110,4 +111,6 @@
 ![alt text](screenshots/admin/journals.png "Инструкция-файл/Журналы")
 #### 2.10 Получение статистических данных в виде диаграмм, графиков
 ![alt text](screenshots/admin/diagrams.png "Инструкция-файл/Статистика")
+![alt text](screenshots/admin/graphycs.png "Инструкция-файл/Статистика")
+
 Мы любим :octocat:
