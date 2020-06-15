@@ -91,6 +91,6 @@
 Департамент ---> Предмет
 ```
 #### 2.1 Регистрация департамента, получение списка департаментов
-![alt text](screenshots/filename.png "Инструкция-файл")
+![alt text](screenshots/admin/departments.png "Инструкция-файл")
 
 Мы любим :octocat:
