@@ -91,6 +91,27 @@
 Департамент ---> Предмет
 ```
 #### 2.1 Регистрация департамента, получение списка департаментов
-![alt text](screenshots/filename.png "Инструкция-файл")
+![alt text](screenshots/admin/departments.png "Инструкция-файл/Департаменты")
+#### 2.2 Регистрация предмета, получение списка предметов
+![alt text](screenshots/admin/subjects.png "Инструкция-файл/Предметы")
+#### 2.3 Регистрация ученика, получение списка учеников
+![alt text](screenshots/admin/scholars.png "Инструкция-файл/Ученики")
+#### 2.4 Регистрация преподавателя, получение списка преподавателей
+![alt text](screenshots/admin/teachers.png "Инструкция-файл/Преподаватели")
+#### 2.5 Регистрация группы, получение списка групп
+![alt text](screenshots/admin/groups.png "Инструкция-файл/Группы")
+![alt text](screenshots/admin/groups3.png "Инструкция-файл/Группы")
+#### 2.6 Добавление и удаление ученика из группы
+![alt text](screenshots/admin/groups1.png "Инструкция-файл/Группы и ученики")
+![alt text](screenshots/admin/groups2.png "Инструкция-файл/Группы и ученики")
+#### 2.7 Получение списка учебных программ и редактирование, активирование программ
+![alt text](screenshots/admin/programmes.png "Инструкция-файл/Программы")
+#### 2.8 Получение списка составленных тестов преподавателями
+![alt text](screenshots/admin/tests.png "Инструкция-файл/Тесты")
+#### 2.9 Получение списка журналов групп
+![alt text](screenshots/admin/journals.png "Инструкция-файл/Журналы")
+#### 2.10 Получение статистических данных в виде диаграмм, графиков
+![alt text](screenshots/admin/diagrams.png "Инструкция-файл/Статистика")
+![alt text](screenshots/admin/graphycs.png "Инструкция-файл/Статистика")
 
 Мы любим :octocat:
