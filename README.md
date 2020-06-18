@@ -3,7 +3,7 @@
 
 *Условные обозначения:* :anchor: - обязательно к ознакомлению, :bookmark: - можно и пропустить, :telescope: - полезно знать, :chart_with_upwards_trend: - в тренде, :key: - ключевой момент, :art: - подойти творчески, :link: - полезная ссылка, :performing_arts: - другой взгляд, :mountain_cableway: - лучше узнать.
 
-Перейти [Panet9](https://zhus-dika.github.io/planet9/)
+Перейти :point_right: [planet9](https://zhus-dika.github.io/planet9/)
 
 ## О платформе :anchor:
 
