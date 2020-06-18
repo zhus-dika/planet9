@@ -142,7 +142,20 @@
 ![alt text](screenshots/admin/graphycs.png "Инструкция-файл/Статистика")
 
 #### 3.1 Добавление учебной программы, редактирование составленных программ
-![alt text](screenshots/teacher/programmes.png "Инструкция-файл/Программы")
 ![alt text](screenshots/teacher/programmes1.png "Инструкция-файл/Программы")
+![alt text](screenshots/teacher/programmes.png "Инструкция-файл/Программы")
+
+#### 3.2 Добавление теста для группы, редактирование составленных тестов
+![alt text](screenshots/teacher/tests.png "Инструкция-файл/Тесты")
+![alt text](screenshots/teacher/tests1.png "Инструкция-файл/Тесты")
+
+#### 3.3 Получение списка групп
+![alt text](screenshots/teacher/groups.png "Инструкция-файл/Группы")
+
+#### 3.4 Получение списка журналов
+![alt text](screenshots/teacher/journals.png "Инструкция-файл/Журналы")
+
+#### 3.5 Расписание
+![alt text](screenshots/teacher/schedule.png "Инструкция-файл/Расписание")
 
 Мы любим :octocat:
