@@ -158,4 +158,20 @@
 #### 3.5 Расписание
 ![alt text](screenshots/teacher/schedule.png "Инструкция-файл/Расписание")
 
+#### 4.1 Получение списка учебных программ
+![alt text](screenshots/scholar/programmes.png "Инструкция-файл/Программы")
+
+#### 4.2 Получение списка пройденных тестов и прохождение тестов, выставленных для групп
+![alt text](screenshots/teacher/tests.png "Инструкция-файл/Тесты")
+![alt text](screenshots/teacher/tests1.png "Инструкция-файл/Тесты")
+
+#### 4.3 Получение списка групп
+![alt text](screenshots/scholar/groups.png "Инструкция-файл/Группы")
+
+#### 4.4 Получение списка журналов
+![alt text](screenshots/scholar/journals.png "Инструкция-файл/Журналы")
+
+#### 4.5 Расписание
+![alt text](screenshots/scholar/schedule.png "Инструкция-файл/Расписание")
+
 Мы любим :octocat:
