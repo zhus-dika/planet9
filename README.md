@@ -177,4 +177,8 @@
 #### 4.5 Расписание
 ![alt text](screenshots/scholar/schedule.png "Инструкция-файл/Расписание")
 
+:link: https://portal.kundelik.kz/
+
+:link: https://bilimland.kz/
+
 Я люблю :octocat:
