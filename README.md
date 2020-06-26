@@ -150,7 +150,8 @@
 
 #### 3.2 Добавление теста для группы, редактирование составленных тестов
 ![alt text](screenshots/teacher/tests.png "Инструкция-файл/Тесты")
-![alt text](screenshots/teacher/tests1.png "Инструкция-файл/Тесты")
+![alt text](screenshots/teacher/tests_add-image.png "Инструкция-файл/Тесты") 
+![alt text](screenshots/teacher/tests__edit-image.png "Инструкция-файл/Тесты") 
 
 #### 3.3 Получение списка групп
 ![alt text](screenshots/teacher/groups.png "Инструкция-файл/Группы")
