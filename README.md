@@ -3,7 +3,7 @@
 
 *Условные обозначения:* :anchor: - обязательно к ознакомлению, :bookmark: - можно и пропустить, :telescope: - полезно знать, :chart_with_upwards_trend: - в тренде, :key: - ключевой момент, :art: - подойти творчески, :link: - полезная ссылка, :performing_arts: - другой взгляд, :mountain_cableway: - лучше узнать.
 
-Перейти :point_right: [planet9](https://zhus-dika.github.io/planet9/)
+Перейти :point_right: [planet9](https://ferre.serveousercontent.com)
 
 ## О платформе :anchor:
 
@@ -149,8 +149,14 @@
 ![alt text](screenshots/teacher/programmes.png "Инструкция-файл/Программы")
 
 #### 3.2 Добавление теста для группы, редактирование составленных тестов
+
+*Регистрация теста*
 ![alt text](screenshots/teacher/tests.png "Инструкция-файл/Тесты")
-![alt text](screenshots/teacher/tests_add-image.png "Инструкция-файл/Тесты") 
+
+*Добавление вопроса к тесту, возможность прикрепления картинки*
+![alt text](screenshots/teacher/tests__add-question.png "Инструкция-файл/Тесты") 
+
+*Редактирование содержания вопроса, вариантов ответов и правильного ответа, инструменты для редактирования картинки к вопросу*
 ![alt text](screenshots/teacher/tests__edit-image.png "Инструкция-файл/Тесты") 
 
 #### 3.3 Получение списка групп
@@ -178,7 +184,7 @@
 #### 4.5 Расписание
 ![alt text](screenshots/scholar/schedule.png "Инструкция-файл/Расписание")
 
-Перейти :point_right: [planet9](https://zhus-dika.github.io/planet9/)
+Перейти :point_right: [planet9](https://ferre.serveousercontent.com)
 
 :link: https://portal.kundelik.kz/
 
