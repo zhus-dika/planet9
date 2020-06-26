@@ -69,6 +69,8 @@
   
   [3.5 Расписание](https://github.com/zhus-dika/planet9#35-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5) :performing_arts:
   
+  [3.6 Профиль преподавателя] (https://github.com/zhus-dika/planet9/blob/master/README.md#36-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F) :art:
+  
 **4. Функционал для ученика** :mountain_cableway:
 
   [4.1 Получение списка учебных программ](https://github.com/zhus-dika/planet9#41-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC)
@@ -80,6 +82,8 @@
   [4.4 Получение списка журналов](https://github.com/zhus-dika/planet9#44-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2)
   
   [4.5 Расписание](https://github.com/zhus-dika/planet9#45-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
+  
+  [4.6 Профиль ученика](https://github.com/zhus-dika/planet9/blob/master/README.md#46-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0) :art:
   
 #### 1.1 Основные роли платформы
 
@@ -188,7 +192,7 @@
 ![alt text](screenshots/scholar/schedule.png "Инструкция-файл/Расписание")
 
 #### 4.6 Профиль ученика
-![alt text](screenshots/teacher/scholar_profile.png "Инструкция-файл/Профиль")
+![alt text](screenshots/scholar/scholar_profile.png "Инструкция-файл/Профиль")
 
 Перейти :point_right: [planet9](https://ferre.serveousercontent.com)
 
