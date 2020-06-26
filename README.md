@@ -168,6 +168,9 @@
 #### 3.5 Расписание
 ![alt text](screenshots/teacher/schedule.png "Инструкция-файл/Расписание")
 
+#### 3.6 Профиль преподавателя
+![alt text](screenshots/teacher/profile_teacher.png "Инструкция-файл/Профиль")
+
 #### 4.1 Получение списка учебных программ
 ![alt text](screenshots/scholar/programmes.png "Инструкция-файл/Программы")
 
@@ -183,6 +186,9 @@
 
 #### 4.5 Расписание
 ![alt text](screenshots/scholar/schedule.png "Инструкция-файл/Расписание")
+
+#### 4.6 Профиль ученика
+![alt text](screenshots/teacher/scholar_profile.png "Инструкция-файл/Профиль")
 
 Перейти :point_right: [planet9](https://ferre.serveousercontent.com)
 
