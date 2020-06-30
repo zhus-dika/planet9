@@ -63,11 +63,11 @@
   
   [3.2 Добавление теста для группы, редактирование составленных тестов](https://github.com/zhus-dika/planet9#32-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D1%81%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2)
   
-  [3.3 Добавление задания для группы, редактирование составленных заданий]()
+  [3.3 Добавление задания для группы, редактирование составленных заданий](https://github.com/zhus-dika/planet9#33-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9)
   
-  [3.4 Проверка выполненых заданий учеников группы, загрузка файлов выполненных работ учеников]()
+  [3.4 Проверка выполненых заданий учеников группы, загрузка файлов выполненных работ учеников](https://github.com/zhus-dika/planet9#34-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D1%8B%D1%85-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%80%D0%B0%D0%B1%D0%BE%D1%82-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2)
   
-  [3.5 Выставление оценок]()
+  [3.5 Выставление оценок](https://github.com/zhus-dika/planet9#35-%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%86%D0%B5%D0%BD%D0%BE%D0%BA)
   
   [3.6 Получение списка групп](https://github.com/zhus-dika/planet9#33-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
   
@@ -83,9 +83,9 @@
   
   [4.2 Получение списка пройденных тестов и прохождение тестов, выставленных для групп](https://github.com/zhus-dika/planet9#42-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B9%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2-%D0%B8-%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2-%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
   
-  [4.3 Получение списка выполненных заданий с оценками, выставленными преподавателями и комментариями]()
+  [4.3 Получение списка выполненных заданий с оценками, выставленными преподавателями и комментариями](https://github.com/zhus-dika/planet9#43-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9-%D1%81-%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B0%D0%BC%D0%B8-%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%D0%B8-%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D1%8F%D0%BC%D0%B8)
   
-  [4.4 Загрузка файла с заданием, выставленного для группы и загрузка файла с выполненной работой]()
+  [4.4 Загрузка файла с заданием, выставленного для группы и загрузка файла с выполненной работой](https://github.com/zhus-dika/planet9#44-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0-%D1%81-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC-%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-%D0%B8-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0-%D1%81-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D0%B9)
     
   [4.5 Получение списка групп](https://github.com/zhus-dika/planet9#43-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
   
@@ -174,10 +174,14 @@
 ![alt text](screenshots/teacher/tests__edit-image.png "Инструкция-файл/Тесты") 
 
 #### 3.3 Добавление задания для группы, редактирование составленных заданий
-  
+![alt text](screenshots/teacher/add_assignment.png "Инструкция-файл/Задания") 
+![alt text](screenshots/teacher/edit_assignment.png "Инструкция-файл/Задания") 
+
 #### 3.4 Проверка выполненых заданий учеников группы, загрузка файлов выполненных работ учеников
-  
+![alt text](screenshots/teacher/check_assignment.png "Инструкция-файл/Задания") 
+
 #### 3.5 Выставление оценок
+![alt text](screenshots/teacher/teacher_mark.png "Инструкция-файл/Задания") 
 
 #### 3.6 Получение списка групп
 ![alt text](screenshots/teacher/groups.png "Инструкция-файл/Группы")
@@ -199,8 +203,10 @@
 ![alt text](screenshots/scholar/tests1.png "Инструкция-файл/Тесты")
 
 #### 4.3 Получение списка выполненных заданий с оценками, выставленными преподавателями и комментариями
-  
+![alt text](screenshots/scholar/scholar_assignment_marks.png "Инструкция-файл/Задания") 
+
 #### 4.4 Загрузка файла с заданием, выставленного для группы и загрузка файла с выполненной работой
+![alt text](screenshots/scholar/scholar_assignment.png "Инструкция-файл/Задания") 
 
 #### 4.5 Получение списка групп
 ![alt text](screenshots/scholar/groups.png "Инструкция-файл/Группы")
