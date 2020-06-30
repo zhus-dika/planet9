@@ -63,11 +63,19 @@
   
   [3.2 Добавление теста для группы, редактирование составленных тестов](https://github.com/zhus-dika/planet9#32-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D1%81%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2)
   
-  [3.3 Получение списка групп](https://github.com/zhus-dika/planet9#33-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
+  [3.3 Добавление задания для группы, редактирование составленных заданий]()
   
-  [3.4 Получение списка журналов](https://github.com/zhus-dika/planet9#34-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2)
+  [3.4 Проверка выполненых заданий учеников группы, загрузка файлов выполненных работ учеников]()
   
-  [3.5 Расписание](https://github.com/zhus-dika/planet9#35-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5) :performing_arts:
+  [3.5 Выставление оценок]()
+  
+  [3.6 Получение списка групп](https://github.com/zhus-dika/planet9#33-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
+  
+  [3.7 Получение списка журналов](https://github.com/zhus-dika/planet9#34-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2)
+  
+  [3.8 Расписание](https://github.com/zhus-dika/planet9#35-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5) :performing_arts:
+  
+  [3.9 Профиль преподавателя](https://github.com/zhus-dika/planet9#36-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F) :art:
   
 **4. Функционал для ученика** :mountain_cableway:
 
@@ -75,11 +83,17 @@
   
   [4.2 Получение списка пройденных тестов и прохождение тестов, выставленных для групп](https://github.com/zhus-dika/planet9#42-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B9%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2-%D0%B8-%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2-%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
   
-  [4.3 Получение списка групп](https://github.com/zhus-dika/planet9#43-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
+  [4.3 Получение списка выполненных заданий с оценками, выставленными преподавателями и комментариями]()
   
-  [4.4 Получение списка журналов](https://github.com/zhus-dika/planet9#44-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2)
+  [4.4 Загрузка файла с заданием, выставленного для группы и загрузка файла с выполненной работой]()
+    
+  [4.5 Получение списка групп](https://github.com/zhus-dika/planet9#43-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
   
-  [4.5 Расписание](https://github.com/zhus-dika/planet9#45-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
+  [4.6 Получение списка журналов](https://github.com/zhus-dika/planet9#44-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2)
+  
+  [4.7 Расписание](https://github.com/zhus-dika/planet9#45-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
+  
+  [4.8 Профиль ученика](https://github.com/zhus-dika/planet9/blob/master/README.md#46-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0) :art:
   
 #### 1.1 Основные роли платформы
 
@@ -159,14 +173,23 @@
 *Редактирование содержания вопроса, вариантов ответов и правильного ответа, инструменты для редактирования картинки к вопросу*
 ![alt text](screenshots/teacher/tests__edit-image.png "Инструкция-файл/Тесты") 
 
-#### 3.3 Получение списка групп
+#### 3.3 Добавление задания для группы, редактирование составленных заданий
+  
+#### 3.4 Проверка выполненых заданий учеников группы, загрузка файлов выполненных работ учеников
+  
+#### 3.5 Выставление оценок
+
+#### 3.6 Получение списка групп
 ![alt text](screenshots/teacher/groups.png "Инструкция-файл/Группы")
 
-#### 3.4 Получение списка журналов
+#### 3.7 Получение списка журналов
 ![alt text](screenshots/teacher/journals.png "Инструкция-файл/Журналы")
 
-#### 3.5 Расписание
+#### 3.8 Расписание
 ![alt text](screenshots/teacher/schedule.png "Инструкция-файл/Расписание")
+
+#### 3.9 Профиль преподавателя
+![alt text](screenshots/teacher/profile_teacher.png "Инструкция-файл/Профиль")
 
 #### 4.1 Получение списка учебных программ
 ![alt text](screenshots/scholar/programmes.png "Инструкция-файл/Программы")
@@ -175,14 +198,21 @@
 ![alt text](screenshots/scholar/tests.png "Инструкция-файл/Тесты")
 ![alt text](screenshots/scholar/tests1.png "Инструкция-файл/Тесты")
 
-#### 4.3 Получение списка групп
+#### 4.3 Получение списка выполненных заданий с оценками, выставленными преподавателями и комментариями
+  
+#### 4.4 Загрузка файла с заданием, выставленного для группы и загрузка файла с выполненной работой
+
+#### 4.5 Получение списка групп
 ![alt text](screenshots/scholar/groups.png "Инструкция-файл/Группы")
 
-#### 4.4 Получение списка журналов
+#### 4.6 Получение списка журналов
 ![alt text](screenshots/scholar/journals.png "Инструкция-файл/Журналы")
 
-#### 4.5 Расписание
+#### 4.7 Расписание
 ![alt text](screenshots/scholar/schedule.png "Инструкция-файл/Расписание")
+
+#### 4.8 Профиль ученика
+![alt text](screenshots/scholar/scholar_profile.png "Инструкция-файл/Профиль")
 
 Перейти :point_right: [planet9](https://ferre.serveousercontent.com)
 
