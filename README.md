@@ -181,7 +181,7 @@
 ![alt text](screenshots/teacher/check_assignment.png "Инструкция-файл/Задания") 
 
 #### 3.5 Выставление оценок
-![alt text](screenshots/scholar/teacher_mark.png "Инструкция-файл/Задания") 
+![alt text](screenshots/teacher/teacher_mark.png "Инструкция-файл/Задания") 
 
 #### 3.6 Получение списка групп
 ![alt text](screenshots/teacher/groups.png "Инструкция-файл/Группы")
@@ -201,6 +201,7 @@
 #### 4.2 Получение списка пройденных тестов и прохождение тестов, выставленных для групп
 ![alt text](screenshots/scholar/tests.png "Инструкция-файл/Тесты")
 ![alt text](screenshots/scholar/tests1.png "Инструкция-файл/Тесты")
+![alt text](screenshots/scholar/tests_answers.png "Инструкция-файл/Тесты")
 
 #### 4.3 Получение списка выполненных заданий с оценками, выставленными преподавателями и комментариями
 ![alt text](screenshots/scholar/scholar_assignment_marks.png "Инструкция-файл/Задания") 
