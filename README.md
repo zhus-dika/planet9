@@ -135,19 +135,23 @@
 Департамент ---> Предмет
 ```
 #### 2.1 Регистрация департамента, получение списка департаментов
-![alt text](screenshots/admin/departments.png "Инструкция-файл/Департаменты")
+![alt text](screenshots/admin/admin_departments.png "Инструкция-файл/Департаменты")
+![alt text](screenshots/admin/admin_department_add.png "Инструкция-файл/Департаменты")
 #### 2.2 Регистрация предмета, получение списка предметов
 ![alt text](screenshots/admin/subjects.png "Инструкция-файл/Предметы")
+![alt text](screenshots/admin/subjects_add.png "Инструкция-файл/Предметы")
 #### 2.3 Регистрация ученика, получение списка учеников
 ![alt text](screenshots/admin/scholars.png "Инструкция-файл/Ученики")
+![alt text](screenshots/admin/scholars_add.png "Инструкция-файл/Ученики")
 #### 2.4 Регистрация преподавателя, получение списка преподавателей
 ![alt text](screenshots/admin/teachers.png "Инструкция-файл/Преподаватели")
+![alt text](screenshots/admin/teachers_add.png "Инструкция-файл/Преподаватели")
 #### 2.5 Регистрация группы, получение списка групп
 ![alt text](screenshots/admin/groups.png "Инструкция-файл/Группы")
-![alt text](screenshots/admin/groups3.png "Инструкция-файл/Группы")
+![alt text](screenshots/admin/groups_add.png "Инструкция-файл/Группы")
 #### 2.6 Добавление и удаление ученика из группы
-![alt text](screenshots/admin/groups1.png "Инструкция-файл/Группы и ученики")
-![alt text](screenshots/admin/groups2.png "Инструкция-файл/Группы и ученики")
+![alt text](screenshots/admin/add_scholar.png "Инструкция-файл/Группы и ученики")
+![alt text](screenshots/admin/remove_scholar.png "Инструкция-файл/Группы и ученики")
 #### 2.7 Получение списка учебных программ и редактирование, активирование программ
 ![alt text](screenshots/admin/programmes.png "Инструкция-файл/Программы")
 #### 2.8 Получение списка составленных тестов преподавателями
@@ -155,33 +159,32 @@
 #### 2.9 Получение списка журналов групп
 ![alt text](screenshots/admin/journals.png "Инструкция-файл/Журналы")
 #### 2.10 Получение статистических данных в виде диаграмм, графиков
-![alt text](screenshots/admin/diagrams.png "Инструкция-файл/Статистика")
-![alt text](screenshots/admin/graphycs.png "Инструкция-файл/Статистика")
+![alt text](screenshots/admin/stat_pie.png "Инструкция-файл/Статистика")
+![alt text](screenshots/admin/stat_graphics.png "Инструкция-файл/Статистика")
 
 #### 3.1 Добавление учебной программы, редактирование составленных программ
-![alt text](screenshots/teacher/programmes1.png "Инструкция-файл/Программы")
 ![alt text](screenshots/teacher/programmes.png "Инструкция-файл/Программы")
 
 #### 3.2 Добавление теста для группы, редактирование составленных тестов
 
 *Регистрация теста*
-![alt text](screenshots/teacher/tests.png "Инструкция-файл/Тесты")
+![alt text](screenshots/teacher/register_test.png "Инструкция-файл/Тесты")
 
 *Добавление вопроса к тесту, возможность прикрепления картинки*
-![alt text](screenshots/teacher/tests__add-question.png "Инструкция-файл/Тесты") 
+![alt text](screenshots/teacher/add_question.png "Инструкция-файл/Тесты") 
 
 *Редактирование содержания вопроса, вариантов ответов и правильного ответа, инструменты для редактирования картинки к вопросу*
-![alt text](screenshots/teacher/tests__edit-image.png "Инструкция-файл/Тесты") 
+![alt text](screenshots/teacher/edit_question.png "Инструкция-файл/Тесты") 
 
 #### 3.3 Добавление задания для группы, редактирование составленных заданий
-![alt text](screenshots/teacher/add_assignment.png "Инструкция-файл/Задания") 
+![alt text](screenshots/teacher/register_assignment.png "Инструкция-файл/Задания") 
 ![alt text](screenshots/teacher/edit_assignment.png "Инструкция-файл/Задания") 
 
 #### 3.4 Проверка выполненых заданий учеников группы, загрузка файлов выполненных работ учеников
 ![alt text](screenshots/teacher/check_assignment.png "Инструкция-файл/Задания") 
 
 #### 3.5 Выставление оценок
-![alt text](screenshots/teacher/teacher_mark.png "Инструкция-файл/Задания") 
+![alt text](screenshots/teacher/write_mark_assignment.png "Инструкция-файл/Задания") 
 
 #### 3.6 Получение списка групп
 ![alt text](screenshots/teacher/groups.png "Инструкция-файл/Группы")
@@ -193,18 +196,18 @@
 ![alt text](screenshots/teacher/schedule.png "Инструкция-файл/Расписание")
 
 #### 3.9 Профиль преподавателя
-![alt text](screenshots/teacher/profile_teacher.png "Инструкция-файл/Профиль")
+![alt text](screenshots/teacher/profile.png "Инструкция-файл/Профиль")
 
 #### 4.1 Получение списка учебных программ
 ![alt text](screenshots/scholar/programmes.png "Инструкция-файл/Программы")
 
 #### 4.2 Получение списка пройденных тестов и прохождение тестов, выставленных для групп
-![alt text](screenshots/scholar/tests.png "Инструкция-файл/Тесты")
-![alt text](screenshots/scholar/tests1.png "Инструкция-файл/Тесты")
-![alt text](screenshots/scholar/tests_answers.png "Инструкция-файл/Тесты")
+![alt text](screenshots/scholar/passed_tests.png "Инструкция-файл/Тесты")
+![alt text](screenshots/scholar/available_test.png "Инструкция-файл/Тесты")
+![alt text](screenshots/scholar/check_answer.png "Инструкция-файл/Тесты")
 
 #### 4.3 Получение списка выполненных заданий с оценками, выставленными преподавателями и комментариями
-![alt text](screenshots/scholar/scholar_assignment_marks.png "Инструкция-файл/Задания") 
+![alt text](screenshots/scholar/passed_assignments.png "Инструкция-файл/Задания") 
 
 #### 4.4 Загрузка файла с заданием, выставленного для группы и загрузка файла с выполненной работой
 ![alt text](screenshots/scholar/scholar_assignment.png "Инструкция-файл/Задания") 
@@ -219,7 +222,7 @@
 ![alt text](screenshots/scholar/schedule.png "Инструкция-файл/Расписание")
 
 #### 4.8 Профиль ученика
-![alt text](screenshots/scholar/scholar_profile.png "Инструкция-файл/Профиль")
+![alt text](screenshots/scholar/profile.png "Инструкция-файл/Профиль")
 
 Перейти :point_right: [planet9](https://ferre.serveousercontent.com)
 
