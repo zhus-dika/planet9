@@ -177,6 +177,12 @@
 *Редактирование содержания вопроса, вариантов ответов и правильного ответа, инструменты для редактирования картинки к вопросу*
 ![alt text](screenshots/teacher/edit_question.png "Инструкция-файл/Тесты") 
 
+*Добавление теста группе*
+![alt text](screenshots/teacher/test_add_group.png "Инструкция-файл/Тесты") 
+
+*Получение результатов сдачи теста определенной группы*
+![alt text](screenshots/teacher/test_results.png "Инструкция-файл/Тесты") 
+
 #### 3.3 Добавление задания для группы, редактирование составленных заданий
 ![alt text](screenshots/teacher/register_assignment.png "Инструкция-файл/Задания") 
 ![alt text](screenshots/teacher/edit_assignment.png "Инструкция-файл/Задания") 
