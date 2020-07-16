@@ -37,9 +37,9 @@
   
 **2. Функционал для администратора** :telescope:
 
-  [2.1 Регистрация департамента, получение списка департаментов](https://github.com/zhus-dika/planet9#21-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
+  [2.1 Регистрация департамента, получение списка департаментов, редактирование](https://github.com/zhus-dika/planet9#21-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
   
-  [2.2 Регистрация предмета, получение списка предметов](https://github.com/zhus-dika/planet9#22-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BE%D0%B2)
+  [2.2 Регистрация предмета, получение списка предметов, редактирование](https://github.com/zhus-dika/planet9#22-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BE%D0%B2)
   
   [2.3 Регистрация ученика, получение списка учеников](https://github.com/zhus-dika/planet9#23-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2)
   
@@ -138,9 +138,12 @@
 #### 2.1 Регистрация департамента, получение списка департаментов
 ![alt text](screenshots/admin/admin_departments.png "Инструкция-файл/Департаменты")
 ![alt text](screenshots/admin/admin_department_add.png "Инструкция-файл/Департаменты")
+![alt text](screenshots/admin/edit_department.png "Инструкция-файл/Департаменты")
+
 #### 2.2 Регистрация предмета, получение списка предметов
 ![alt text](screenshots/admin/subjects.png "Инструкция-файл/Предметы")
 ![alt text](screenshots/admin/subjects_add.png "Инструкция-файл/Предметы")
+![alt text](screenshots/admin/edit_subject.png "Инструкция-файл/Предметы")
 #### 2.3 Регистрация ученика, получение списка учеников
 ![alt text](screenshots/admin/scholars.png "Инструкция-файл/Ученики")
 ![alt text](screenshots/admin/scholars_add.png "Инструкция-файл/Ученики")
