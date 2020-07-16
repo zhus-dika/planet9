@@ -3,7 +3,7 @@
 
 *Условные обозначения:* :anchor: - обязательно к ознакомлению, :bookmark: - можно и пропустить, :telescope: - полезно знать, :chart_with_upwards_trend: - в тренде, :key: - ключевой момент, :art: - подойти творчески, :link: - полезная ссылка, :performing_arts: - другой взгляд, :mountain_cableway: - лучше узнать.
 
-Перейти :point_right: [planet9](https://ferre.serveousercontent.com)
+Перейти :point_right: [planet9](https://cf01b768e80a.ngrok.io/)
 
 ## О платформе :anchor:
 
@@ -177,6 +177,12 @@
 *Редактирование содержания вопроса, вариантов ответов и правильного ответа, инструменты для редактирования картинки к вопросу*
 ![alt text](screenshots/teacher/edit_question.png "Инструкция-файл/Тесты") 
 
+*Добавление теста группе*
+![alt text](screenshots/teacher/test_add_group.png "Инструкция-файл/Тесты") 
+
+*Получение результатов сдачи теста определенной группы*
+![alt text](screenshots/teacher/test_results.png "Инструкция-файл/Тесты") 
+
 #### 3.3 Добавление задания для группы, редактирование составленных заданий
 ![alt text](screenshots/teacher/register_assignment.png "Инструкция-файл/Задания") 
 ![alt text](screenshots/teacher/edit_assignment.png "Инструкция-файл/Задания") 
@@ -225,7 +231,7 @@
 #### 4.8 Профиль ученика
 ![alt text](screenshots/scholar/profile.png "Инструкция-файл/Профиль")
 
-Перейти :point_right: [planet9](https://ferre.serveousercontent.com)
+Перейти :point_right: [planet9](https://cf01b768e80a.ngrok.io/)
 
 :link: https://portal.kundelik.kz/
 
