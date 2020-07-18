@@ -147,11 +147,11 @@
 #### 2.3 Регистрация ученика, получение списка учеников
 ![alt text](screenshots/admin/scholars.png "Инструкция-файл/Ученики")
 ![alt text](screenshots/admin/scholars_add.png "Инструкция-файл/Ученики")
-![alt text](screenshots/admin/edit_scholar.png "Инструкция-файл/Ученики")
+![alt text](screenshots/scholar/edit_scholar.png "Инструкция-файл/Ученики")
 #### 2.4 Регистрация преподавателя, получение списка преподавателей
 ![alt text](screenshots/admin/teachers.png "Инструкция-файл/Преподаватели")
 ![alt text](screenshots/admin/teachers_add.png "Инструкция-файл/Преподаватели")
-![alt text](screenshots/admin/edit_teacher.png "Инструкция-файл/Преподаватели")
+![alt text](screenshots/teacher/edit_teacher.png "Инструкция-файл/Преподаватели")
 #### 2.5 Регистрация группы, получение списка групп
 ![alt text](screenshots/admin/groups.png "Инструкция-файл/Группы")
 ![alt text](screenshots/admin/groups_add.png "Инструкция-файл/Группы")
