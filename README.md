@@ -242,4 +242,4 @@
 
 :link: https://bilimland.kz/
 
-Я люблю :octocat:
+Мы с партнером :heart: :octocat:
