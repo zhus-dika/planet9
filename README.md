@@ -5,7 +5,7 @@
 
 ***Выражаю благодарность любимомму человеку, классному программисту и просто хорошему человеку. Жаным, Шынгыс, спасибо за вдохновление, которое ты даришь мне, поддержку и любовь :heart:***
 
-Перейти :point_right: [planet9](https://7aeb048595ea.ngrok.io)
+Перейти :point_right: [planet9](https://8faa415f6f4a.ngrok.io)
 
 ## О платформе :anchor:
 
@@ -238,7 +238,7 @@
 #### 4.8 Профиль ученика
 ![alt text](screenshots/scholar/profile.png "Инструкция-файл/Профиль")
 
-Перейти :point_right: [planet9](https://7aeb048595ea.ngrok.io)
+Перейти :point_right: [planet9](https://8faa415f6f4a.ngrok.io)
 
 :link: https://portal.kundelik.kz/
 
