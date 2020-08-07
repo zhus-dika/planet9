@@ -3,7 +3,7 @@
 
 *Условные обозначения:* :anchor: - обязательно к ознакомлению, :bookmark: - можно и пропустить, :telescope: - полезно знать, :chart_with_upwards_trend: - в тренде, :key: - ключевой момент, :art: - подойти творчески, :link: - полезная ссылка, :performing_arts: - другой взгляд, :mountain_cableway: - лучше узнать.
 
-Перейти :point_right: [planet9](https://b1c44d1bfbf2.ngrok.io/)
+Перейти :point_right: [planet9](https://386147d09330.ngrok.io)
 
 ## О платформе :anchor:
 
@@ -236,7 +236,7 @@
 #### 4.8 Профиль ученика
 ![alt text](screenshots/scholar/profile.png "Инструкция-файл/Профиль")
 
-Перейти :point_right: [planet9](https://b1c44d1bfbf2.ngrok.io/)
+Перейти :point_right: [planet9](https://386147d09330.ngrok.io)
 
 :link: https://portal.kundelik.kz/
 
