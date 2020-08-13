@@ -49,7 +49,7 @@
   
   [2.4 Регистрация преподавателя, получение списка преподавателей, редактирование](https://github.com/zhus-dika/planet9#24-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9)
   
-  [2.5 Регистрация группы, получение списка групп](https://github.com/zhus-dika/planet9#25-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
+  [2.5 Регистрация группы, получение списка групп, редактирование](https://github.com/zhus-dika/planet9#25-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
   
   [2.6 Добавление и удаление ученика из группы](https://github.com/zhus-dika/planet9#26-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B)
   
@@ -149,19 +149,19 @@
 ![alt text](screenshots/admin/department-list.png "Инструкция-файл/Департаменты")
 ![alt text](screenshots/admin/department-edit.png "Инструкция-файл/Департаменты")
 
-#### 2.2 Регистрация предмета, получение списка предметов
+#### 2.2 Регистрация предмета, получение списка предметов, редактирование
 ![alt text](screenshots/admin/subject-add.png "Инструкция-файл/Предметы")
 ![alt text](screenshots/admin/subject-list.png "Инструкция-файл/Предметы")
 ![alt text](screenshots/admin/subject-edit.png "Инструкция-файл/Предметы")
-#### 2.3 Регистрация ученика, получение списка учеников
+#### 2.3 Регистрация ученика, получение списка учеников, редактирование
 ![alt text](screenshots/admin/scholar-add.png "Инструкция-файл/Ученики")
 ![alt text](screenshots/admin/scholar-list.png "Инструкция-файл/Ученики")
 ![alt text](screenshots/admin/scholar-edit.png "Инструкция-файл/Ученики")
-#### 2.4 Регистрация преподавателя, получение списка преподавателей
+#### 2.4 Регистрация преподавателя, получение списка преподавателей, редактирование
 ![alt text](screenshots/admin/teacher-add.png "Инструкция-файл/Преподаватели")
 ![alt text](screenshots/admin/teacher-list.png "Инструкция-файл/Преподаватели")
 ![alt text](screenshots/admin/teacher-edit.png "Инструкция-файл/Преподаватели")
-#### 2.5 Регистрация группы, получение списка групп
+#### 2.5 Регистрация группы, получение списка групп, редактирование
 ![alt text](screenshots/admin/group-add.png "Инструкция-файл/Группы")
 ![alt text](screenshots/admin/group-list.png "Инструкция-файл/Группы")
 #### 2.6 Добавление и удаление ученика из группы
