@@ -5,7 +5,7 @@
 
 Платформа написана на трех языках: казахском, русском и английском.
 
-Перейти :point_right: [planet9](https://42e6089d080e.ngrok.io/)
+Перейти :point_right: [planet9](https://b151a049e795.ngrok.io)
 
 ## О платформе :anchor:
 
@@ -256,7 +256,7 @@
 #### 4.8 Профиль ученика
 ![alt text](screenshots/scholar/scholar-profile.png "Инструкция-файл/Профиль")
 
-Перейти :point_right: [planet9](https://42e6089d080e.ngrok.io/)
+Перейти :point_right: [planet9](https://b151a049e795.ngrok.io)
 
 :link: https://portal.kundelik.kz/
 
