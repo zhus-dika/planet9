@@ -1,9 +1,11 @@
 # planet9 - платформа для дошкольного и школьного образования :books:
-***Версия: v1.0.3 (прототип)***
+***Версия: v1.1.2 (прототип)***
 
 *Условные обозначения:* :anchor: - обязательно к ознакомлению, :bookmark: - можно и пропустить, :telescope: - полезно знать, :chart_with_upwards_trend: - в тренде, :key: - ключевой момент, :art: - подойти творчески, :link: - полезная ссылка, :performing_arts: - другой взгляд, :mountain_cableway: - лучше узнать.
 
-Перейти :point_right: [planet9](https://0a6d2b1c5bbc.ngrok.io)
+Платформа написана на трех языках: казахском, русском и английском.
+
+Перейти :point_right: [planet9](https://b53704e2e051.ngrok.io)
 
 ## О платформе :anchor:
 
@@ -12,6 +14,8 @@
 :heavy_plus_sign: оптимальные инструменты для управления учебным процессом
 
 :heavy_plus_sign: удобный интерфейс
+
+:heavy_plus_sign: возможность работать на казахском, русском и английском языках
 
 :heavy_plus_sign: возможность дистанционного обучения
 
@@ -39,13 +43,13 @@
 
   [2.1 Регистрация департамента, получение списка департаментов, редактирование](https://github.com/zhus-dika/planet9#21-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B4%D0%B5%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2)
   
-  [2.2 Регистрация предмета, получение списка предметов, редактирование](https://github.com/zhus-dika/planet9#22-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BE%D0%B2)
+  [2.2 Регистрация предмета, получение списка предметов, редактирование](https://github.com/zhus-dika/planet9#22-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BE%D0%B2-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
   
-  [2.3 Регистрация ученика, получение списка учеников, редактирование](https://github.com/zhus-dika/planet9#23-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2)
+  [2.3 Регистрация ученика, получение списка учеников, редактирование](https://github.com/zhus-dika/planet9#23-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
   
-  [2.4 Регистрация преподавателя, получение списка преподавателей, редактирование](https://github.com/zhus-dika/planet9#24-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9)
+  [2.4 Регистрация преподавателя, получение списка преподавателей, редактирование](https://github.com/zhus-dika/planet9#24-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
   
-  [2.5 Регистрация группы, получение списка групп](https://github.com/zhus-dika/planet9#25-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
+  [2.5 Регистрация группы, получение списка групп, редактирование](https://github.com/zhus-dika/planet9#25-%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B3%D1%80%D1%83%D0%BF%D0%BF-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
   
   [2.6 Добавление и удаление ученика из группы](https://github.com/zhus-dika/planet9#26-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B)
   
@@ -53,13 +57,15 @@
   
   [2.8 Получение списка составленных тестов преподавателями](https://github.com/zhus-dika/planet9#28-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D0%BC%D0%B8)
   
-  [2.9 Получение списка журналов групп](https://github.com/zhus-dika/planet9#29-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
+  [2.9 Получение списка журналов групп](https://github.com/zhus-dika/planet9#29-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2-%D0%B3%D1%80%D1%83%D0%BF%D0%BF-%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8-%D0%BF%D0%BE-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B5-%D0%B8-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D1%85-%D0%BE%D1%86%D0%B5%D0%BD%D0%BE%D0%BA-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2)
   
   [2.10 Получение статистических данных в виде диаграмм, графиков](https://github.com/zhus-dika/planet9#210-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-%D0%B2%D0%B8%D0%B4%D0%B5-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%BE%D0%B2) :chart_with_upwards_trend:
   
+  [2.11 Профиль школы](https://github.com/zhus-dika/planet9#211-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C-%D1%88%D0%BA%D0%BE%D0%BB%D1%8B) :art:
+  
 **3. Функционал для преподавателя** :mountain_cableway:
 
-  [3.1 Добавление учебной программы, редактирование составленных программ](https://github.com/zhus-dika/planet9#31-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC) :art:
+  [3.1 Добавление учебной программы, редактирование составленных программ, загрузка учебных материалов](https://github.com/zhus-dika/planet9#31-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D1%85-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%BE%D0%B2) :art:
   
   [3.2 Добавление теста для группы, редактирование составленных тестов](https://github.com/zhus-dika/planet9#32-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D1%81%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D1%8B-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2)
   
@@ -79,7 +85,7 @@
   
 **4. Функционал для ученика** :mountain_cableway:
 
-  [4.1 Получение списка учебных программ](https://github.com/zhus-dika/planet9#41-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC)
+  [4.1 Получение списка учебных программ, работа с учебными материалами](https://github.com/zhus-dika/planet9#41-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%BC%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B0%D0%BC%D0%B8)
   
   [4.2 Получение списка пройденных тестов и прохождение тестов, выставленных для групп](https://github.com/zhus-dika/planet9#42-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B9%D0%B4%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2-%D0%B8-%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2-%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%B4%D0%BB%D1%8F-%D0%B3%D1%80%D1%83%D0%BF%D0%BF)
   
@@ -121,11 +127,14 @@
 ```
 #### 1.3 Объекты платформы :bookmark:
 ```
-+++ Администратор +++ ученики +++ преподаватели +++ департаменты +++ предметы +++ группы +++
-+++ журналы +++ тесты +++ задания +++ учебные программы +++ диаграммы +++
++++ Администратор +++ ученики +++ преподаватели +++ школы +++ департаменты +++ предметы +++ 
++++ группы +++ журналы +++ тесты +++ задания +++ учебные программы +++ диаграммы +++
 ```
 #### 1.4 Связи объектов :telescope:
 ```
+Администратор <---> Школа
+Администратор ---> Департамент
+Администратор ---> Предмет
 Администратор ---> Ученик
 Администратор ---> Преподаватель
 Преподаватель <---> Ученик
@@ -140,19 +149,19 @@
 ![alt text](screenshots/admin/department-list.png "Инструкция-файл/Департаменты")
 ![alt text](screenshots/admin/department-edit.png "Инструкция-файл/Департаменты")
 
-#### 2.2 Регистрация предмета, получение списка предметов
+#### 2.2 Регистрация предмета, получение списка предметов, редактирование
 ![alt text](screenshots/admin/subject-add.png "Инструкция-файл/Предметы")
 ![alt text](screenshots/admin/subject-list.png "Инструкция-файл/Предметы")
 ![alt text](screenshots/admin/subject-edit.png "Инструкция-файл/Предметы")
-#### 2.3 Регистрация ученика, получение списка учеников
+#### 2.3 Регистрация ученика, получение списка учеников, редактирование
 ![alt text](screenshots/admin/scholar-add.png "Инструкция-файл/Ученики")
 ![alt text](screenshots/admin/scholar-list.png "Инструкция-файл/Ученики")
-![alt text](screenshots/scholar/scholar-edit.png "Инструкция-файл/Ученики")
-#### 2.4 Регистрация преподавателя, получение списка преподавателей
+![alt text](screenshots/admin/scholar-edit.png "Инструкция-файл/Ученики")
+#### 2.4 Регистрация преподавателя, получение списка преподавателей, редактирование
 ![alt text](screenshots/admin/teacher-add.png "Инструкция-файл/Преподаватели")
 ![alt text](screenshots/admin/teacher-list.png "Инструкция-файл/Преподаватели")
-![alt text](screenshots/teacher/teacher-edit.png "Инструкция-файл/Преподаватели")
-#### 2.5 Регистрация группы, получение списка групп
+![alt text](screenshots/admin/teacher-edit.png "Инструкция-файл/Преподаватели")
+#### 2.5 Регистрация группы, получение списка групп, редактирование
 ![alt text](screenshots/admin/group-add.png "Инструкция-файл/Группы")
 ![alt text](screenshots/admin/group-list.png "Инструкция-файл/Группы")
 #### 2.6 Добавление и удаление ученика из группы
@@ -173,8 +182,11 @@
 ![alt text](screenshots/admin/statistics-chart-pie.png "Инструкция-файл/Статистика")
 ![alt text](screenshots/admin/statistics-graphics.png "Инструкция-файл/Статистика")
 
-#### 3.1 Добавление учебной программы, редактирование составленных программ
-![alt text](screenshots/teacher/programme.png "Инструкция-файл/Программы")
+#### 2.11 Профиль школы
+![alt text](screenshots/admin/admin-profile.png "Инструкция-файл/Статистика")
+
+#### 3.1 Добавление учебной программы, редактирование составленных программ, загрузка учебных материалов
+![alt text](screenshots/teacher/teacher-programme.png "Инструкция-файл/Программы")
 
 #### 3.2 Добавление теста для группы, редактирование составленных тестов
 
@@ -216,7 +228,7 @@
 #### 3.9 Профиль преподавателя
 ![alt text](screenshots/teacher/teacher-profile.png "Инструкция-файл/Профиль")
 
-#### 4.1 Получение списка учебных программ
+#### 4.1 Получение списка учебных программ, работа с учебными материалами
 ![alt text](screenshots/scholar/scholar-programme.png "Инструкция-файл/Программы")
 ![alt text](screenshots/scholar/scholar-book.png "Инструкция-файл/Программы")
 
@@ -244,7 +256,7 @@
 #### 4.8 Профиль ученика
 ![alt text](screenshots/scholar/scholar-profile.png "Инструкция-файл/Профиль")
 
-Перейти :point_right: [planet9](https://0a6d2b1c5bbc.ngrok.io)
+Перейти :point_right: [planet9](https://b53704e2e051.ngrok.io)
 
 :link: https://portal.kundelik.kz/
 
