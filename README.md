@@ -1,11 +1,11 @@
 # planet9 - платформа для дошкольного и школьного образования :books:
-***Версия: v1.1.2 (прототип)***
+***Версия: v1.2.2 (прототип)***
 
 *Условные обозначения:* :anchor: - обязательно к ознакомлению, :bookmark: - можно и пропустить, :telescope: - полезно знать, :chart_with_upwards_trend: - в тренде, :key: - ключевой момент, :art: - подойти творчески, :link: - полезная ссылка, :performing_arts: - другой взгляд, :mountain_cableway: - лучше узнать.
 
 Платформа написана на трех языках: казахском, русском и английском.
 
-Перейти :point_right: [planet9](https://b53704e2e051.ngrok.io)
+Перейти :point_right: [planet9.kz](https://0887b0aa0689.ngrok.io)
 
 ## О платформе :anchor:
 
@@ -62,6 +62,8 @@
   [2.10 Получение статистических данных в виде диаграмм, графиков](https://github.com/zhus-dika/planet9#210-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-%D0%B2%D0%B8%D0%B4%D0%B5-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%BE%D0%B2) :chart_with_upwards_trend:
   
   [2.11 Профиль школы](https://github.com/zhus-dika/planet9#211-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C-%D1%88%D0%BA%D0%BE%D0%BB%D1%8B) :art:
+  
+  [2.12 Добавление объявления для школы, редактирование](https://github.com/zhus-dika/planet9#212-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%88%D0%BA%D0%BE%D0%BB%D1%8B-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) :chart_with_upwards_trend:
   
 **3. Функционал для преподавателя** :mountain_cableway:
 
@@ -185,6 +187,11 @@
 #### 2.11 Профиль школы
 ![alt text](screenshots/admin/admin-profile.png "Инструкция-файл/Статистика")
 
+#### 2.12 Добавление объявления для школы, редактирование
+![alt text](screenshots/admin/admin-news-list.png "Инструкция-файл/Новости")
+![alt text](screenshots/admin/admin-news-edit.png "Инструкция-файл/Новости")
+![alt text](screenshots/admin/admin-news-add.png "Инструкция-файл/Новости")
+
 #### 3.1 Добавление учебной программы, редактирование составленных программ, загрузка учебных материалов
 ![alt text](screenshots/teacher/teacher-programme.png "Инструкция-файл/Программы")
 
@@ -256,7 +263,7 @@
 #### 4.8 Профиль ученика
 ![alt text](screenshots/scholar/scholar-profile.png "Инструкция-файл/Профиль")
 
-Перейти :point_right: [planet9](https://b53704e2e051.ngrok.io)
+Перейти :point_right: [planet9.kz](https://0887b0aa0689.ngrok.io)
 
 :link: https://portal.kundelik.kz/
 
