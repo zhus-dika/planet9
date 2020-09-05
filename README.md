@@ -1,5 +1,5 @@
 # planet9 - платформа для дошкольного и школьного образования :books:
-***Версия: v1.2.2 (прототип)***
+***Версия: v1.4.2 (прототип)***
 
 *Условные обозначения:* :anchor: - обязательно к ознакомлению, :bookmark: - можно и пропустить, :telescope: - полезно знать, :chart_with_upwards_trend: - в тренде, :key: - ключевой момент, :art: - подойти творчески, :link: - полезная ссылка, :performing_arts: - другой взгляд, :mountain_cableway: - лучше узнать.
 
@@ -65,6 +65,12 @@
   
   [2.12 Добавление объявления для школы, редактирование](https://github.com/zhus-dika/planet9#212-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D1%88%D0%BA%D0%BE%D0%BB%D1%8B-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5) :chart_with_upwards_trend:
   
+  [2.13 Открытие темы для форума]() :mountain_cableway:
+  
+  [2.14 Возможность участвовать в решении темы на форуме]() 
+  
+  [2.15 Поиск среди существующих тем]() 
+  
 **3. Функционал для преподавателя** :mountain_cableway:
 
   [3.1 Добавление учебной программы, редактирование составленных программ, загрузка учебных материалов](https://github.com/zhus-dika/planet9#31-%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B9-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D1%85-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%BE%D0%B2) :art:
@@ -85,6 +91,12 @@
   
   [3.9 Профиль преподавателя](https://github.com/zhus-dika/planet9#39-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C-%D0%BF%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F) :art:
   
+  [3.10 Открытие темы для форума]() :mountain_cableway:
+  
+  [3.11 Возможность участвовать в решении темы на форуме]() 
+  
+  [3.12 Поиск среди существующих тем]() 
+  
 **4. Функционал для ученика** :mountain_cableway:
 
   [4.1 Получение списка учебных программ, работа с учебными материалами](https://github.com/zhus-dika/planet9#41-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%BC%D0%B8-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D0%B0%D0%BC%D0%B8)
@@ -102,6 +114,12 @@
   [4.7 Расписание](https://github.com/zhus-dika/planet9#47-%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)
   
   [4.8 Профиль ученика](https://github.com/zhus-dika/planet9#48-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%B0) :art:
+  
+  [4.9 Открытие темы для форума]() :mountain_cableway:
+  
+  [4.10 Возможность участвовать в решении темы на форуме]() 
+  
+  [4.11 Поиск среди существующих тем]() 
   
 #### 1.1 Основные роли платформы
 
@@ -192,6 +210,16 @@
 ![alt text](screenshots/admin/admin-news-edit.png "Инструкция-файл/Новости")
 ![alt text](screenshots/admin/admin-news-add.png "Инструкция-файл/Новости")
 
+ #### 2.13 Открытие темы для форума
+ ![alt text](screenshots/forum/forum_register.png "Инструкция-файл/Форумы")
+  
+ #### 2.14 Возможность участвовать в решении темы на форуме
+ ![alt text](screenshots/forum/add_forum-answer.png "Инструкция-файл/Форумы")
+ ![alt text](screenshots/forum/forum_vote+solution.png "Инструкция-файл/Форумы")
+  
+ #### 2.15 Поиск среди существующих тем
+ ![alt text](screenshots/forum/forum_find_tag.png "Инструкция-файл/Форумы")
+
 #### 3.1 Добавление учебной программы, редактирование составленных программ, загрузка учебных материалов
 ![alt text](screenshots/teacher/teacher-programme.png "Инструкция-файл/Программы")
 
@@ -235,6 +263,16 @@
 #### 3.9 Профиль преподавателя
 ![alt text](screenshots/teacher/teacher-profile.png "Инструкция-файл/Профиль")
 
+#### 3.10 Открытие темы для форума
+![alt text](screenshots/forum/forum_register.png "Инструкция-файл/Форумы")
+
+#### 3.11 Возможность участвовать в решении темы на форуме
+![alt text](screenshots/forum/add_forum-answer.png "Инструкция-файл/Форумы")
+![alt text](screenshots/forum/forum_vote+solution.png "Инструкция-файл/Форумы")
+
+#### 3.12 Поиск среди существующих тем
+![alt text](screenshots/forum/forum_find_tag.png "Инструкция-файл/Форумы")
+
 #### 4.1 Получение списка учебных программ, работа с учебными материалами
 ![alt text](screenshots/scholar/scholar-programme.png "Инструкция-файл/Программы")
 ![alt text](screenshots/scholar/scholar-book.png "Инструкция-файл/Программы")
@@ -263,10 +301,20 @@
 #### 4.8 Профиль ученика
 ![alt text](screenshots/scholar/scholar-profile.png "Инструкция-файл/Профиль")
 
+#### 4.9 Открытие темы для форума
+![alt text](screenshots/forum/forum_register.png "Инструкция-файл/Форумы")
+
+#### 4.10 Возможность участвовать в решении темы на форуме
+![alt text](screenshots/forum/add_forum-answer.png "Инструкция-файл/Форумы")
+![alt text](screenshots/forum/forum_vote+solution.png "Инструкция-файл/Форумы")
+
+#### 4.11 Поиск среди существующих тем
+![alt text](screenshots/forum/forum_find_tag.png "Инструкция-файл/Форумы")
+
 Перейти :point_right: [planet9.kz](https://planet9.kz/)
 
 :link: https://portal.kundelik.kz/
 
 :link: https://bilimland.kz/
 
-Мы с партнером :heart: :octocat:
+Я :heart: :octocat:
