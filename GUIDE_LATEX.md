@@ -35,27 +35,26 @@
 
 **1. Набор простейших формул**
 
-  [1.1 Степени и индексы]()
+  [1.1 Степени и индексы](https://github.com/zhus-dika/planet9/blob/master/GUIDE_LATEX.md#11-%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%B8-%D0%B8-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D1%8B) :anchor:
   
-  [1.2 Дроби]()
+  [1.2 Дроби](https://github.com/zhus-dika/planet9/blob/master/GUIDE_LATEX.md#12-%D0%B4%D1%80%D0%BE%D0%B1%D0%B8)
   
-  [1.3 Скобки]()
+  [1.3 Скобки](https://github.com/zhus-dika/planet9/blob/master/GUIDE_LATEX.md#13-%D1%81%D0%BA%D0%BE%D0%B1%D0%BA%D0%B8) :mountain_cableway:
   
-  [1.4 Корни]()
+  [1.4 Корни](https://github.com/zhus-dika/planet9/blob/master/GUIDE_LATEX.md#14-%D0%BA%D0%BE%D1%80%D0%BD%D0%B8)
    
-  [1.5 Штрихи и многоточия]()
+  [1.5 Штрихи и многоточия](https://github.com/zhus-dika/planet9/blob/master/GUIDE_LATEX.md#15-%D1%88%D1%82%D1%80%D0%B8%D1%85%D0%B8-%D0%B8-%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D1%82%D0%BE%D1%87%D0%B8%D1%8F)
   
-  [1.6 Функции]()
   
 **2. Включные и выключные формулы** :telescope:
 
- [2.1 Операции, отношения]()
+ [2.1 Операции, отношения](https://github.com/zhus-dika/planet9/blob/master/GUIDE_LATEX.md#21-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D1%8F)
   
-  [2.2 Функции]()
+  [2.2 Функции](https://github.com/zhus-dika/planet9/blob/master/GUIDE_LATEX.md#22-%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8)
   
-  [2.3 Включение текста в формулы]()
+  [2.3 Включение текста в формулы](https://github.com/zhus-dika/planet9/blob/master/GUIDE_LATEX.md#23-%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0-%D0%B2-%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B)
      
-  [2.4 Набор матриц]()
+  [2.4 Набор матриц](https://github.com/zhus-dika/planet9/blob/master/GUIDE_LATEX.md#24-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86) :bookmark:
 
 #### 1.1 Степени и индексы
 ![alt text](screenshots/latex/degree.png "Инструкция-файл/Набор простейших формул-Степени и индексы")
@@ -89,7 +88,9 @@
 #### 2.4 Набор матриц
 ![alt text](screenshots/latex/matrix.png "Инструкция-файл/Включные и выключные формулы-Набор матриц")
 
-Перейти :point_right: [planet9](https://b53704e2e051.ngrok.io)
+:link: Более подробное руководство по [latex](https://www.mccme.ru/free-books/llang/newllang.pdf)
+
+Перейти :point_right: [planet9](https://b53704e2e051.ngrok.io) 
 
 :link: http://tug.org/
 
