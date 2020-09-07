@@ -167,9 +167,12 @@
 Департамент ---> Предмет
 ```
 #### 2.1 Регистрация департамента, получение списка департаментов
+*Регистрация департамента*
 ![alt text](screenshots/admin/department-add.png "Инструкция-файл/Департаменты")
+*Получение списка департаментов*
 ![alt text](screenshots/admin/department-list.png "Инструкция-файл/Департаменты")
-![alt text](screenshots/admin/department-edit.png "Инструкция-файл/Департаменты")
+*Редактирование департамента*
+![alt text](screenshots/admin/department_edit.png "Инструкция-файл/Департаменты")
 
 #### 2.2 Регистрация предмета, получение списка предметов, редактирование
 ![alt text](screenshots/admin/subject-add.png "Инструкция-файл/Предметы")
