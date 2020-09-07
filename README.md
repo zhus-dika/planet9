@@ -179,10 +179,12 @@
 ![alt text](screenshots/admin/subject-list.png "Инструкция-файл/Предметы")
 ![alt text](screenshots/admin/subject-edit.png "Инструкция-файл/Предметы")
 #### 2.3 Регистрация ученика, получение списка учеников, редактирование
+При регистрации ученика письмо с подтверждением отправляется на почту ученика. Пароль по умолчанию *qwerty*, в личном кабинете можно поменять.
 ![alt text](screenshots/admin/scholar-add.png "Инструкция-файл/Ученики")
 ![alt text](screenshots/admin/scholar-list.png "Инструкция-файл/Ученики")
 ![alt text](screenshots/admin/scholar-edit.png "Инструкция-файл/Ученики")
 #### 2.4 Регистрация преподавателя, получение списка преподавателей, редактирование
+При регистрации преподавателя письмо с подтверждением отправляется на почту преподавателя. Пароль по умолчанию *qwerty*, в личном кабинете можно поменять.
 ![alt text](screenshots/admin/teacher-add.png "Инструкция-файл/Преподаватели")
 ![alt text](screenshots/admin/teacher-list.png "Инструкция-файл/Преподаватели")
 ![alt text](screenshots/admin/teacher-edit.png "Инструкция-файл/Преподаватели")
