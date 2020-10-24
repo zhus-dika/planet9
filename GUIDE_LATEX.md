@@ -3,7 +3,7 @@
 
 *Условные обозначения:* :anchor: - обязательно к ознакомлению, :bookmark: - можно и пропустить, :telescope: - полезно знать, :chart_with_upwards_trend: - в тренде, :key: - ключевой момент, :art: - подойти творчески, :link: - полезная ссылка, :performing_arts: - другой взгляд, :mountain_cableway: - лучше узнать.
 
-Перейти :point_right: [planet9](https://b53704e2e051.ngrok.io)
+Перейти :point_right: [planet9](https://planet9.kz)
 
 ## О  [latex](https://ru.wikipedia.org/wiki/LaTeX) :anchor:
 
@@ -90,7 +90,7 @@
 
 :link: Более подробное руководство по [latex](https://www.mccme.ru/free-books/llang/newllang.pdf)
 
-Перейти :point_right: [planet9](https://b53704e2e051.ngrok.io) 
+Перейти :point_right: [planet9](https://planet9.kz) 
 
 :link: http://tug.org/
 
