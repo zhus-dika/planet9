@@ -5,7 +5,7 @@
 
 Платформа написана на трех языках: казахском, русском и английском.
 
-Перейти :point_right: [planet9.kz](https://planet9.kz/)
+Перейти :point_right: [planet9.kz](https://ec2-54-89-58-192.compute-1.amazonaws.com/)
 
 ## О платформе :anchor:
 
@@ -321,7 +321,7 @@
 #### 4.11 Поиск среди существующих тем
 ![alt text](screenshots/forum/forum_find_tag.png "Инструкция-файл/Форумы")
 
-Перейти :point_right: [planet9.kz](https://planet9.kz/)
+Перейти :point_right: [planet9.kz](https://ec2-54-89-58-192.compute-1.amazonaws.com/)
 
 :link: https://portal.kundelik.kz/
 
